@@ -1,0 +1,2 @@
+# linuxPathExercise
+Straightforward pathing exercise
